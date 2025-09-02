@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there, I'm Ian. 
 
 I make things for the internet. As a front-end developer, I strive to create experiences that are not only visually appealing, but also gleefully intuitive.
 
