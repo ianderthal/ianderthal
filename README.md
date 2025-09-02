@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+
+I make things for the internet. As a front-end developer, I strive to create experiences that are not only visually appealing, but also gleefully intuitive.
 
 <!--
 **ianderthal/ianderthal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
