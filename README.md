@@ -2,6 +2,7 @@
 
 I make things for the internet. As a web developer, I strive to create experiences that are not only visually appealing, but also gleefully intuitive. Additionally, accessibility is important to me.
 
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <!--
 **ianderthal/ianderthal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
