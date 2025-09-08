@@ -1,6 +1,6 @@
 ## Hi there, I'm Ian. 
 
-I make things for the internet. As a web developer, I strive to create experiences that are not only visually appealing, but also gleefully intuitive. Additionally, accessibility is important to me.
+Front-end origins, full stack progression. Accessibility is rad!
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <!--
